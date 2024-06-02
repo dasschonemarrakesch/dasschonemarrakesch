@@ -220,7 +220,7 @@ body {
 
 .main-white-button a {
   font-size: 13px;
-  color: #fb5849;
+  color: #74866c;
   background-color: #fff;
   padding: 12px 25px;
   display: inline-block;
@@ -247,7 +247,7 @@ body {
 .section-heading h6 {
   position: relative;
   font-size: 15px;
-  color: #fb5849;
+  color: #74866c;
   font-weight: 500;
   letter-spacing: 2px;
   text-transform: uppercase;
@@ -261,7 +261,7 @@ body {
   position: absolute;
   left: 0;
   top: 8px;
-  background-color: #fb5849;
+  background-color: #74866c;
 }
 
 .section-heading h2 {
@@ -295,11 +295,11 @@ header
 }
 
 .background-header .main-nav .nav li:hover a {
-  color: #fb5849 !important;
+  color: #74866c !important;
 }
 
 .background-header .nav li a.active {
-  color: #fb5849 !important;
+  color: #74866c !important;
 }
 
 .header-area {
@@ -387,12 +387,12 @@ header
 
 .header-area .main-nav .nav li:hover a,
 .header-area .main-nav .nav li a.active {
-  color: #fb5849 !important;
+  color: #74866c !important;
 }
 
 .background-header .main-nav .nav li:hover a,
 .background-header .main-nav .nav li a.active {
-  color: #fb5849 !important;
+  color: #74866c !important;
   opacity: 1;
 }
 
@@ -455,7 +455,7 @@ header
 
 .header-area .main-nav .nav li.submenu ul li a:hover {
   background: #fff;
-  color: #fb5849 !important;
+  color: #74866c !important;
   padding-left: 25px;
 }
 
@@ -595,7 +595,7 @@ header
 }
 
 .header-area.header-sticky .nav li a.active {
-  color: #fb5849;
+  color: #74866c;
 }
 
 @media (max-width: 1200px) {
